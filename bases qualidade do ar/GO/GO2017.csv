@@ -1,0 +1,99 @@
+Data,Hora,Estacao,Codigo,Poluente,Valor,Unidade,Tipo
+2017-01-04,01:00,Praça Cívica,GO01,PTS,45,ug/m3,manual
+2017-01-10,01:00,Praça Cívica,GO01,PTS,43,ug/m3,manual
+2017-01-17,01:00,Praça Cívica,GO01,PTS,21,ug/m3,manual
+2017-01-25,01:00,Praça Cívica,GO01,PTS,30,ug/m3,manual
+2017-02-01,01:00,Praça Cívica,GO01,PTS,38,ug/m3,manual
+2017-02-07,01:00,Praça Cívica,GO01,PTS,30,ug/m3,manual
+2017-02-15,01:00,Praça Cívica,GO01,PTS,40,ug/m3,manual
+2017-02-21,01:00,Praça Cívica,GO01,PTS,44,ug/m3,manual
+2017-03-02,01:00,Praça Cívica,GO01,PTS,28,ug/m3,manual
+2017-03-08,01:00,Praça Cívica,GO01,PTS,55,ug/m3,manual
+2017-03-14,01:00,Praça Cívica,GO01,PTS,47,ug/m3,manual
+2017-03-21,01:00,Praça Cívica,GO01,PTS,37,ug/m3,manual
+2017-03-29,01:00,Praça Cívica,GO01,PTS,36,ug/m3,manual
+2017-04-05,01:00,Praça Cívica,GO01,PTS,21,ug/m3,manual
+2017-04-11,01:00,Praça Cívica,GO01,PTS,53,ug/m3,manual
+2017-04-18,01:00,Praça Cívica,GO01,PTS,49,ug/m3,manual
+2017-04-25,01:00,Praça Cívica,GO01,PTS,34,ug/m3,manual
+2017-05-03,01:00,Praça Cívica,GO01,PTS,43,ug/m3,manual
+2017-05-09,01:00,Praça Cívica,GO01,PTS,57,ug/m3,manual
+2017-05-16,01:00,Praça Cívica,GO01,PTS,41,ug/m3,manual
+2017-05-23,01:00,Praça Cívica,GO01,PTS,35,ug/m3,manual
+2017-05-31,01:00,Praça Cívica,GO01,PTS,58,ug/m3,manual
+2017-06-06,01:00,Praça Cívica,GO01,PTS,60,ug/m3,manual
+2017-06-12,01:00,Praça Cívica,GO01,PTS,72,ug/m3,manual
+2017-06-20,01:00,Praça Cívica,GO01,PTS,58,ug/m3,manual
+2017-06-28,01:00,Praça Cívica,GO01,PTS,56,ug/m3,manual
+2017-07-04,01:00,Praça Cívica,GO01,PTS,69,ug/m3,manual
+2017-07-11,01:00,Praça Cívica,GO01,PTS,60,ug/m3,manual
+2017-07-19,01:00,Praça Cívica,GO01,PTS,73,ug/m3,manual
+2017-07-27,01:00,Praça Cívica,GO01,PTS,73,ug/m3,manual
+2017-08-01,01:00,Praça Cívica,GO01,PTS,83,ug/m3,manual
+2017-08-08,01:00,Praça Cívica,GO01,PTS,104,ug/m3,manual
+2017-08-15,01:00,Praça Cívica,GO01,PTS,107,ug/m3,manual
+2017-08-22,01:00,Praça Cívica,GO01,PTS,114,ug/m3,manual
+2017-08-28,01:00,Praça Cívica,GO01,PTS,87,ug/m3,manual
+2017-09-04,01:00,Praça Cívica,GO01,PTS,73,ug/m3,manual
+2017-09-12,01:00,Praça Cívica,GO01,PTS,87,ug/m3,manual
+2017-09-20,01:00,Praça Cívica,GO01,PTS,82,ug/m3,manual
+2017-09-26,01:00,Praça Cívica,GO01,PTS,80,ug/m3,manual
+2017-10-03,01:00,Praça Cívica,GO01,PTS,37,ug/m3,manual
+2017-10-09,01:00,Praça Cívica,GO01,PTS,94,ug/m3,manual
+2017-10-18,01:00,Praça Cívica,GO01,PTS,65,ug/m3,manual
+2017-10-25,01:00,Praça Cívica,GO01,PTS,69,ug/m3,manual
+2017-10-30,01:00,Praça Cívica,GO01,PTS,42,ug/m3,manual
+2017-11-13,01:00,Praça Cívica,GO01,PTS,53,ug/m3,manual
+2017-11-21,01:00,Praça Cívica,GO01,PTS,24,ug/m3,manual
+2017-11-29,01:00,Praça Cívica,GO01,PTS,41,ug/m3,manual
+2017-12-05,01:00,Praça Cívica,GO01,PTS,31,ug/m3,manual
+2017-12-14,01:00,Praça Cívica,GO01,PTS,13,ug/m3,manual
+2017-12-19,01:00,Praça Cívica,GO01,PTS,44,ug/m3,manual
+2017-01-04,01:00,Praça do Trabalhador,GO02,PTS,51,ug/m3,manual
+2017-01-10,01:00,Praça do Trabalhador,GO02,PTS,76,ug/m3,manual
+2017-01-17,01:00,Praça do Trabalhador,GO02,PTS,29,ug/m3,manual
+2017-01-25,01:00,Praça do Trabalhador,GO02,PTS,42,ug/m3,manual
+2017-02-01,01:00,Praça do Trabalhador,GO02,PTS,55,ug/m3,manual
+2017-02-07,01:00,Praça do Trabalhador,GO02,PTS,38,ug/m3,manual
+2017-02-15,01:00,Praça do Trabalhador,GO02,PTS,54,ug/m3,manual
+2017-02-21,01:00,Praça do Trabalhador,GO02,PTS,59,ug/m3,manual
+2017-03-02,01:00,Praça do Trabalhador,GO02,PTS,39,ug/m3,manual
+2017-03-08,01:00,Praça do Trabalhador,GO02,PTS,76,ug/m3,manual
+2017-03-14,01:00,Praça do Trabalhador,GO02,PTS,65,ug/m3,manual
+2017-04-11,01:00,Praça do Trabalhador,GO02,PTS,74,ug/m3,manual
+2017-04-18,01:00,Praça do Trabalhador,GO02,PTS,60,ug/m3,manual
+2017-04-25,01:00,Praça do Trabalhador,GO02,PTS,39,ug/m3,manual
+2017-05-03,01:00,Praça do Trabalhador,GO02,PTS,70,ug/m3,manual
+2017-05-09,01:00,Praça do Trabalhador,GO02,PTS,79,ug/m3,manual
+2017-05-23,01:00,Praça do Trabalhador,GO02,PTS,57,ug/m3,manual
+2017-05-31,01:00,Praça do Trabalhador,GO02,PTS,66,ug/m3,manual
+2017-06-06,01:00,Praça do Trabalhador,GO02,PTS,86,ug/m3,manual
+2017-06-12,01:00,Praça do Trabalhador,GO02,PTS,93,ug/m3,manual
+2017-06-20,01:00,Praça do Trabalhador,GO02,PTS,86,ug/m3,manual
+2017-06-28,01:00,Praça do Trabalhador,GO02,PTS,94,ug/m3,manual
+2017-07-04,01:00,Praça do Trabalhador,GO02,PTS,80,ug/m3,manual
+2017-12-19,01:00,Praça do Trabalhador,GO02,PTS,66,ug/m3,manual
+2017-12-26,01:00,Praça do Trabalhador,GO02,PTS,53,ug/m3,manual
+2017-07-11,01:00,Praça do Trabalhador,GO02,PTS,74,ug/m3,manual
+2017-07-19,01:00,Praça do Trabalhador,GO02,PTS,105,ug/m3,manual
+2017-07-27,01:00,Praça do Trabalhador,GO02,PTS,94,ug/m3,manual
+2017-08-01,01:00,Praça do Trabalhador,GO02,PTS,110,ug/m3,manual
+2017-08-08,01:00,Praça do Trabalhador,GO02,PTS,134,ug/m3,manual
+2017-08-15,01:00,Praça do Trabalhador,GO02,PTS,155,ug/m3,manual
+2017-08-22,01:00,Praça do Trabalhador,GO02,PTS,136,ug/m3,manual
+2017-08-28,01:00,Praça do Trabalhador,GO02,PTS,124,ug/m3,manual
+2017-09-04,01:00,Praça do Trabalhador,GO02,PTS,99,ug/m3,manual
+2017-09-12,01:00,Praça do Trabalhador,GO02,PTS,115,ug/m3,manual
+2017-09-20,01:00,Praça do Trabalhador,GO02,PTS,102,ug/m3,manual
+2017-09-26,01:00,Praça do Trabalhador,GO02,PTS,96,ug/m3,manual
+2017-10-03,01:00,Praça do Trabalhador,GO02,PTS,70,ug/m3,manual
+2017-10-09,01:00,Praça do Trabalhador,GO02,PTS,116,ug/m3,manual
+2017-10-18,01:00,Praça do Trabalhador,GO02,PTS,82,ug/m3,manual
+2017-10-25,01:00,Praça do Trabalhador,GO02,PTS,95,ug/m3,manual
+2017-10-30,01:00,Praça do Trabalhador,GO02,PTS,59,ug/m3,manual
+2017-11-08,01:00,Praça do Trabalhador,GO02,PTS,46,ug/m3,manual
+2017-11-13,01:00,Praça do Trabalhador,GO02,PTS,79,ug/m3,manual
+2017-11-21,01:00,Praça do Trabalhador,GO02,PTS,28,ug/m3,manual
+2017-11-29,01:00,Praça do Trabalhador,GO02,PTS,65,ug/m3,manual
+2017-12-05,01:00,Praça do Trabalhador,GO02,PTS,42,ug/m3,manual
+2017-12-14,01:00,Praça do Trabalhador,GO02,PTS,13,ug/m3,manual

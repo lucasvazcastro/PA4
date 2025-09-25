@@ -1,0 +1,58 @@
+Data,Hora,Estacao,Codigo,Poluente,Valor,Unidade,Tipo
+2016-03-01,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,86,ug/m3,manual
+2016-03-07,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,108,ug/m3,manual
+2016-07-05,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,120,ug/m3,manual
+2016-07-12,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,124,ug/m3,manual
+2016-07-28,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,143,ug/m3,manual
+2016-09-27,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,106,ug/m3,manual
+2016-11-16,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,135,ug/m3,manual
+2016-11-30,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,98,ug/m3,manual
+2016-07-18,01:00,Praça Cívica,GO01,PTS,90,ug/m3,manual
+2016-08-02,01:00,Praça Cívica,GO01,PTS,75,ug/m3,manual
+2016-08-10,01:00,Praça Cívica,GO01,PTS,98,ug/m3,manual
+2016-08-24,01:00,Praça Cívica,GO01,PTS,80,ug/m3,manual
+2016-09-08,01:00,Praça Cívica,GO01,PTS,82,ug/m3,manual
+2016-09-15,01:00,Praça Cívica,GO01,PTS,137,ug/m3,manual
+2016-09-20,01:00,Praça Cívica,GO01,PTS,87,ug/m3,manual
+2016-09-27,01:00,Praça Cívica,GO01,PTS,80,ug/m3,manual
+2016-10-04,01:00,Praça Cívica,GO01,PTS,27,ug/m3,manual
+2016-10-13,01:00,Praça Cívica,GO01,PTS,45,ug/m3,manual
+2016-10-27,01:00,Praça Cívica,GO01,PTS,33,ug/m3,manual
+2016-11-03,01:00,Praça Cívica,GO01,PTS,38,ug/m3,manual
+2016-11-16,01:00,Praça Cívica,GO01,PTS,27,ug/m3,manual
+2016-11-22,01:00,Praça Cívica,GO01,PTS,29,ug/m3,manual
+2016-11-30,01:00,Praça Cívica,GO01,PTS,43,ug/m3,manual
+2016-12-15,01:00,Praça Cívica,GO01,PTS,30,ug/m3,manual
+2016-12-21,01:00,Praça Cívica,GO01,PTS,44,ug/m3,manual
+2016-12-27,01:00,Praça Cívica,GO01,PTS,32,ug/m3,manual
+2016-03-02,01:00,Praça do Trabalhador,GO02,PTS,34,ug/m3,manual
+2016-03-07,01:00,Praça do Trabalhador,GO02,PTS,55,ug/m3,manual
+2016-04-04,01:00,Praça do Trabalhador,GO02,PTS,70,ug/m3,manual
+2016-04-12,01:00,Praça do Trabalhador,GO02,PTS,75,ug/m3,manual
+2016-05-02,01:00,Praça do Trabalhador,GO02,PTS,83,ug/m3,manual
+2016-05-10,01:00,Praça do Trabalhador,GO02,PTS,98,ug/m3,manual
+2016-06-07,01:00,Praça do Trabalhador,GO02,PTS,69,ug/m3,manual
+2016-06-30,01:00,Praça do Trabalhador,GO02,PTS,89,ug/m3,manual
+2016-07-05,01:00,Praça do Trabalhador,GO02,PTS,71,ug/m3,manual
+2016-07-12,01:00,Praça do Trabalhador,GO02,PTS,151,ug/m3,manual
+2016-07-18,01:00,Praça do Trabalhador,GO02,PTS,120,ug/m3,manual
+2016-07-28,01:00,Praça do Trabalhador,GO02,PTS,120,ug/m3,manual
+2016-08-02,01:00,Praça do Trabalhador,GO02,PTS,119,ug/m3,manual
+2016-08-11,01:00,Praça do Trabalhador,GO02,PTS,142,ug/m3,manual
+2016-08-24,01:00,Praça do Trabalhador,GO02,PTS,73,ug/m3,manual
+2016-08-30,01:00,Praça do Trabalhador,GO02,PTS,103,ug/m3,manual
+2016-09-08,01:00,Praça do Trabalhador,GO02,PTS,97,ug/m3,manual
+2016-09-15,01:00,Praça do Trabalhador,GO02,PTS,158,ug/m3,manual
+2016-09-21,01:00,Praça do Trabalhador,GO02,PTS,98,ug/m3,manual
+2016-09-27,01:00,Praça do Trabalhador,GO02,PTS,105,ug/m3,manual
+2016-10-04,01:00,Praça do Trabalhador,GO02,PTS,47,ug/m3,manual
+2016-10-13,01:00,Praça do Trabalhador,GO02,PTS,54,ug/m3,manual
+2016-10-27,01:00,Praça do Trabalhador,GO02,PTS,68,ug/m3,manual
+2016-11-03,01:00,Praça do Trabalhador,GO02,PTS,46,ug/m3,manual
+2016-11-16,01:00,Praça do Trabalhador,GO02,PTS,32,ug/m3,manual
+2016-11-22,01:00,Praça do Trabalhador,GO02,PTS,35,ug/m3,manual
+2016-11-30,01:00,Praça do Trabalhador,GO02,PTS,60,ug/m3,manual
+2016-12-08,01:00,Praça do Trabalhador,GO02,PTS,58,ug/m3,manual
+2016-12-15,01:00,Praça do Trabalhador,GO02,PTS,39,ug/m3,manual
+2016-12-21,01:00,Praça do Trabalhador,GO02,PTS,61,ug/m3,manual
+2016-12-28,01:00,Praça do Trabalhador,GO02,PTS,54,ug/m3,manual

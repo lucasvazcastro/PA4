@@ -1,0 +1,110 @@
+Data,Hora,Estacao,Codigo,Poluente,Valor,Unidade,Tipo
+2015-02-03,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,127,ug/m3,manual
+2015-02-10,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,104,ug/m3,manual
+2015-02-19,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,100,ug/m3,manual
+2015-02-24,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,137,ug/m3,manual
+2015-03-03,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,125,ug/m3,manual
+2015-03-10,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,156,ug/m3,manual
+2015-03-17,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,135,ug/m3,manual
+2015-03-24,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,137,ug/m3,manual
+2015-03-30,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,155,ug/m3,manual
+2015-04-07,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,130,ug/m3,manual
+2015-04-14,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,142,ug/m3,manual
+2015-04-22,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,156,ug/m3,manual
+2015-05-06,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,196,ug/m3,manual
+2015-05-11,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,153,ug/m3,manual
+2015-05-20,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,116,ug/m3,manual
+2015-05-27,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,137,ug/m3,manual
+2015-06-09,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,188,ug/m3,manual
+2015-06-16,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,114,ug/m3,manual
+2015-06-23,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,114,ug/m3,manual
+2015-06-30,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,123,ug/m3,manual
+2015-07-08,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,62,ug/m3,manual
+2015-07-14,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,113,ug/m3,manual
+2015-07-22,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,125,ug/m3,manual
+2015-07-28,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,127,ug/m3,manual
+2015-08-04,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,136,ug/m3,manual
+2015-08-11,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,171,ug/m3,manual
+2015-08-18,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,119,ug/m3,manual
+2015-08-25,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,171,ug/m3,manual
+2015-08-31,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,111,ug/m3,manual
+2015-09-08,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,125,ug/m3,manual
+2015-09-14,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,134,ug/m3,manual
+2015-09-21,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,130,ug/m3,manual
+2015-09-28,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,118,ug/m3,manual
+2015-10-05,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,118,ug/m3,manual
+2015-10-13,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,116,ug/m3,manual
+2015-10-19,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,147,ug/m3,manual
+2015-10-27,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,104,ug/m3,manual
+2015-11-04,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,87,ug/m3,manual
+2015-11-16,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,120,ug/m3,manual
+2015-11-24,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,108,ug/m3,manual
+2015-11-30,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,131,ug/m3,manual
+2015-12-07,01:00,Distrito Agroindustrial de Anápolis,GO03,PTS,122,ug/m3,manual
+2015-02-10,01:00,Praça Cívica,GO01,PTS,59,ug/m3,manual
+2015-03-03,01:00,Praça Cívica,GO01,PTS,35,ug/m3,manual
+2015-03-09,01:00,Praça Cívica,GO01,PTS,43,ug/m3,manual
+2015-03-17,01:00,Praça Cívica,GO01,PTS,30,ug/m3,manual
+2015-03-24,01:00,Praça Cívica,GO01,PTS,45,ug/m3,manual
+2015-03-30,01:00,Praça Cívica,GO01,PTS,46,ug/m3,manual
+2015-04-07,01:00,Praça Cívica,GO01,PTS,43,ug/m3,manual
+2015-04-14,01:00,Praça Cívica,GO01,PTS,42,ug/m3,manual
+2015-04-22,01:00,Praça Cívica,GO01,PTS,53,ug/m3,manual
+2015-05-05,01:00,Praça Cívica,GO01,PTS,37,ug/m3,manual
+2015-05-11,01:00,Praça Cívica,GO01,PTS,39,ug/m3,manual
+2015-05-20,01:00,Praça Cívica,GO01,PTS,52,ug/m3,manual
+2015-05-27,01:00,Praça Cívica,GO01,PTS,63,ug/m3,manual
+2015-06-09,01:00,Praça Cívica,GO01,PTS,64,ug/m3,manual
+2015-06-16,01:00,Praça Cívica,GO01,PTS,65,ug/m3,manual
+2015-07-14,01:00,Praça Cívica,GO01,PTS,62,ug/m3,manual
+2015-07-22,01:00,Praça Cívica,GO01,PTS,86,ug/m3,manual
+2015-07-28,01:00,Praça Cívica,GO01,PTS,81,ug/m3,manual
+2015-08-04,01:00,Praça Cívica,GO01,PTS,98,ug/m3,manual
+2015-08-11,01:00,Praça Cívica,GO01,PTS,86,ug/m3,manual
+2015-08-31,01:00,Praça Cívica,GO01,PTS,82,ug/m3,manual
+2015-09-08,01:00,Praça Cívica,GO01,PTS,119,ug/m3,manual
+2015-09-21,01:00,Praça Cívica,GO01,PTS,116,ug/m3,manual
+2015-09-28,01:00,Praça Cívica,GO01,PTS,94,ug/m3,manual
+2015-10-13,01:00,Praça Cívica,GO01,PTS,90,ug/m3,manual
+2015-02-03,01:00,Praça do Trabalhador,GO02,PTS,43,ug/m3,manual
+2015-02-10,01:00,Praça do Trabalhador,GO02,PTS,63,ug/m3,manual
+2015-02-19,01:00,Praça do Trabalhador,GO02,PTS,38,ug/m3,manual
+2015-02-24,01:00,Praça do Trabalhador,GO02,PTS,71,ug/m3,manual
+2015-03-09,01:00,Praça do Trabalhador,GO02,PTS,61,ug/m3,manual
+2015-03-17,01:00,Praça do Trabalhador,GO02,PTS,37,ug/m3,manual
+2015-03-24,01:00,Praça do Trabalhador,GO02,PTS,60,ug/m3,manual
+2015-03-30,01:00,Praça do Trabalhador,GO02,PTS,49,ug/m3,manual
+2015-04-07,01:00,Praça do Trabalhador,GO02,PTS,56,ug/m3,manual
+2015-04-14,01:00,Praça do Trabalhador,GO02,PTS,61,ug/m3,manual
+2015-04-22,01:00,Praça do Trabalhador,GO02,PTS,91,ug/m3,manual
+2015-05-05,01:00,Praça do Trabalhador,GO02,PTS,44,ug/m3,manual
+2015-05-11,01:00,Praça do Trabalhador,GO02,PTS,52,ug/m3,manual
+2015-05-20,01:00,Praça do Trabalhador,GO02,PTS,61,ug/m3,manual
+2015-05-27,01:00,Praça do Trabalhador,GO02,PTS,61,ug/m3,manual
+2015-06-09,01:00,Praça do Trabalhador,GO02,PTS,102,ug/m3,manual
+2015-06-16,01:00,Praça do Trabalhador,GO02,PTS,72,ug/m3,manual
+2015-06-23,01:00,Praça do Trabalhador,GO02,PTS,82,ug/m3,manual
+2015-06-30,01:00,Praça do Trabalhador,GO02,PTS,82,ug/m3,manual
+2015-07-08,01:00,Praça do Trabalhador,GO02,PTS,54,ug/m3,manual
+2015-07-14,01:00,Praça do Trabalhador,GO02,PTS,96,ug/m3,manual
+2015-07-22,01:00,Praça do Trabalhador,GO02,PTS,113,ug/m3,manual
+2015-07-28,01:00,Praça do Trabalhador,GO02,PTS,115,ug/m3,manual
+2015-08-04,01:00,Praça do Trabalhador,GO02,PTS,124,ug/m3,manual
+2015-08-11,01:00,Praça do Trabalhador,GO02,PTS,101,ug/m3,manual
+2015-08-18,01:00,Praça do Trabalhador,GO02,PTS,101,ug/m3,manual
+2015-08-25,01:00,Praça do Trabalhador,GO02,PTS,163,ug/m3,manual
+2015-08-31,01:00,Praça do Trabalhador,GO02,PTS,102,ug/m3,manual
+2015-09-08,01:00,Praça do Trabalhador,GO02,PTS,108,ug/m3,manual
+2015-09-14,01:00,Praça do Trabalhador,GO02,PTS,87,ug/m3,manual
+2015-09-21,01:00,Praça do Trabalhador,GO02,PTS,123,ug/m3,manual
+2015-09-28,01:00,Praça do Trabalhador,GO02,PTS,106,ug/m3,manual
+2015-10-05,01:00,Praça do Trabalhador,GO02,PTS,104,ug/m3,manual
+2015-10-13,01:00,Praça do Trabalhador,GO02,PTS,103,ug/m3,manual
+2015-10-19,01:00,Praça do Trabalhador,GO02,PTS,163,ug/m3,manual
+2015-10-27,01:00,Praça do Trabalhador,GO02,PTS,53,ug/m3,manual
+2015-11-04,01:00,Praça do Trabalhador,GO02,PTS,79,ug/m3,manual
+2015-11-10,01:00,Praça do Trabalhador,GO02,PTS,96,ug/m3,manual
+2015-11-16,01:00,Praça do Trabalhador,GO02,PTS,45,ug/m3,manual
+2015-11-24,01:00,Praça do Trabalhador,GO02,PTS,39,ug/m3,manual
+2015-11-30,01:00,Praça do Trabalhador,GO02,PTS,54,ug/m3,manual
+2015-12-07,01:00,Praça do Trabalhador,GO02,PTS,95,ug/m3,manual
